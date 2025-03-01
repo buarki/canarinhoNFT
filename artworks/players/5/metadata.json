@@ -1,0 +1,28 @@
+{
+  "name": "Canarinho #5",
+  "description": "Roberto Carlos: The STRONGEST Left Leg.",
+  "edition": 1,
+  "image": "ipfs://<CID_HERE>/5.gif",
+  "attributes": [
+    {
+      "trait_type": "Jersey Number",
+      "value": 6
+    },
+    {
+      "trait_type": "Last World Cup",
+      "value": 2006
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Shaved"
+    },
+    {
+      "trait_type": "Stadium",
+      "value": "Santiago Bernabéu"
+    },
+    {
+      "trait_type": "Goals",
+      "value": 113
+    }
+  ]
+}
