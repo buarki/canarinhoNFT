@@ -1,12 +1,12 @@
 {
-  "name": "Canarinho #2",
-  "description": "Ronaldinho Gaucho: The wizard.",
+  "name": "Canarinho #15",
+  "description": "Cafu: The tireless captain, two-time World Cup winner.",
   "edition": 1,
-  "image": "ipfs://<CID_HERE>/2.gif",
+  "image": "ipfs://<CID_HERE>/15.jpg",
   "attributes": [
     {
       "trait_type": "Jersey Number",
-      "value": 10
+      "value": 2
     },
     {
       "trait_type": "Last World Cup",
@@ -14,15 +14,15 @@
     },
     {
       "trait_type": "Hair Style",
-      "value": "Curly Long"
+      "value": "Short"
     },
     {
       "trait_type": "Stadium",
-      "value": "Camp Nou"
+      "value": "Maracana"
     },
     {
       "trait_type": "Goals",
-      "value": 313
+      "value": 5
     }
   ]
 }

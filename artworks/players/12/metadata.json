@@ -1,28 +1,28 @@
 {
-  "name": "Canarinho #2",
-  "description": "Ronaldinho Gaucho: The wizard.",
+  "name": "Canarinho #12",
+  "description": "Tostao: The smart forward, a key player in 1970.",
   "edition": 1,
-  "image": "ipfs://<CID_HERE>/2.gif",
+  "image": "ipfs://<CID_HERE>/12.jpg",
   "attributes": [
     {
       "trait_type": "Jersey Number",
-      "value": 10
+      "value": 9
     },
     {
       "trait_type": "Last World Cup",
-      "value": 2006
+      "value": 1970
     },
     {
       "trait_type": "Hair Style",
-      "value": "Curly Long"
+      "value": "Short Straight"
     },
     {
       "trait_type": "Stadium",
-      "value": "Camp Nou"
+      "value": "Maracana"
     },
     {
       "trait_type": "Goals",
-      "value": 313
+      "value": 32
     }
   ]
 }

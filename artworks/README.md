@@ -25,3 +25,12 @@ make artworks_prep_imgs
 make artworks_prep_metadata cid=$CID_HERE
 ```
 
+
+## Prepare contract metadata
+
+You should collect the images uploaded and inject them here. E.g:
+
+```sh
+make prep_contract_metadata image_uri=ipfs://QmSz3F6dWRdV46d7x153ugbcWmcMYxuTVzPqbgSuh299JA/main_image.jpg banner_image=ipfs://QmSz3F6dWRdV46d7x153ugbcWmcMYxuTVzPqbgSuh299JA/banner_image.avif featured_image=ipfs://QmSz3F6dWRdV46d7x153ugbcWmcMYxuTVzPqbgSuh299JA/featured_image.webp prepared_dir=./artworks/prepared_metadata owner_address=0x93939nj3845082ea4C449D6Eb84789eD34988936b
+```
+

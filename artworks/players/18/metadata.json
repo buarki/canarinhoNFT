@@ -1,28 +1,28 @@
 {
-  "name": "Canarinho #2",
-  "description": "Ronaldinho Gaucho: The wizard.",
+  "name": "Canarinho #18",
+  "description": "Taffarel: The legendary goalkeeper and penalty hero.",
   "edition": 1,
-  "image": "ipfs://<CID_HERE>/2.gif",
+  "image": "ipfs://<CID_HERE>/18.jpg",
   "attributes": [
     {
       "trait_type": "Jersey Number",
-      "value": 10
+      "value": 1
     },
     {
       "trait_type": "Last World Cup",
-      "value": 2006
+      "value": 1998
     },
     {
       "trait_type": "Hair Style",
-      "value": "Curly Long"
+      "value": "Bald"
     },
     {
       "trait_type": "Stadium",
-      "value": "Camp Nou"
+      "value": "Beira-Rio"
     },
     {
       "trait_type": "Goals",
-      "value": 313
+      "value": 0
     }
   ]
 }

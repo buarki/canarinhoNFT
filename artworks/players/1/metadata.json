@@ -2,15 +2,15 @@
   "name": "Canarinho #1",
   "description": "Pele: The King of Soccer. The best player of history.",
   "edition": 1,
-  "image": "ipfs://<CID_HERE>/1.jpgs",
+  "image": "ipfs://<CID_HERE>/1.jpg",
   "attributes": [
     {
       "trait_type": "Jersey Number",
       "value": 10
     },
     {
-      "trait_type": "Las World Cup",
-      "value": 1970
+      "trait_type": "Last World Cup",
+      "value": 1974
     },
     {
       "trait_type": "Hair Style",
@@ -18,7 +18,7 @@
     },
     {
       "trait_type": "Stadium",
-      "value": "Maracana"
+      "value": "Morumbi"
     },
     {
       "trait_type": "Goals",

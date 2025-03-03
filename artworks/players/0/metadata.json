@@ -1,8 +1,8 @@
 {
-  "name": "Canarinho #2",
-  "description": "Ronaldinho Gaucho: The wizard.",
+  "name": "Canarinho #0",
+  "description": "Pele: The King of Soccer. The best player of history.",
   "edition": 1,
-  "image": "ipfs://<CID_HERE>/2.gif",
+  "image": "ipfs://<CID_HERE>/0.jpg",
   "attributes": [
     {
       "trait_type": "Jersey Number",
@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Last World Cup",
-      "value": 2006
+      "value": 1970
     },
     {
       "trait_type": "Hair Style",
-      "value": "Curly Long"
+      "value": "Classic"
     },
     {
       "trait_type": "Stadium",
-      "value": "Camp Nou"
+      "value": "Maracana"
     },
     {
       "trait_type": "Goals",
-      "value": 313
+      "value": 1279
     }
   ]
 }

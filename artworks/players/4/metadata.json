@@ -1,28 +1,28 @@
 {
   "name": "Canarinho #4",
-  "description": "Neymar: The GOAT.",
+  "description": "Roberto Carlos: The STRONGEST Left Leg.",
   "edition": 1,
   "image": "ipfs://<CID_HERE>/4.gif",
   "attributes": [
     {
       "trait_type": "Jersey Number",
-      "value": 10
+      "value": 6
     },
     {
       "trait_type": "Last World Cup",
-      "value": 2022
+      "value": 2006
     },
     {
       "trait_type": "Hair Style",
-      "value": "Short Mohawk"
+      "value": "Shaved"
     },
     {
       "trait_type": "Stadium",
-      "value": "Parc des Princes"
+      "value": "Santiago Bernabéu"
     },
     {
       "trait_type": "Goals",
-      "value": 450
+      "value": 113
     }
   ]
 }
