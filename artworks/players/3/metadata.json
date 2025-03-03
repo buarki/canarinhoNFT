@@ -1,6 +1,6 @@
 {
   "name": "Canarinho #3",
-  "description": "Ronaldinho Gaucho: The wizard.",
+  "description": "Neymar: The GOAT.",
   "edition": 1,
   "image": "ipfs://<CID_HERE>/3.gif",
   "attributes": [
@@ -10,19 +10,19 @@
     },
     {
       "trait_type": "Last World Cup",
-      "value": 2006
+      "value": 2022
     },
     {
       "trait_type": "Hair Style",
-      "value": "Curly Long"
+      "value": "Short Mohawk"
     },
     {
       "trait_type": "Stadium",
-      "value": "Camp Nou"
+      "value": "Parc des Princes"
     },
     {
       "trait_type": "Goals",
-      "value": 313
+      "value": 450
     }
   ]
 }

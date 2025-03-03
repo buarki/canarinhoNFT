@@ -1,28 +1,28 @@
 {
-  "name": "Canarinho #2",
-  "description": "Ronaldinho Gaucho: The wizard.",
+  "name": "Canarinho #9",
+  "description": "Garrincha: The dribble king, unstoppable on the wing.",
   "edition": 1,
-  "image": "ipfs://<CID_HERE>/2.gif",
+  "image": "ipfs://<CID_HERE>/9.jpg",
   "attributes": [
     {
       "trait_type": "Jersey Number",
-      "value": 10
+      "value": 7
     },
     {
       "trait_type": "Last World Cup",
-      "value": 2006
+      "value": 1966
     },
     {
       "trait_type": "Hair Style",
-      "value": "Curly Long"
+      "value": "Short Straight"
     },
     {
       "trait_type": "Stadium",
-      "value": "Camp Nou"
+      "value": "Maracana"
     },
     {
       "trait_type": "Goals",
-      "value": 313
+      "value": 12
     }
   ]
 }
