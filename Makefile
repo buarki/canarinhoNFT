@@ -30,14 +30,17 @@ ifeq ($(strip $(owner_address)),)
 endif
 	./artworks/prepare_contract_metadata.sh $(image_uri) $(banner_image) $(featured_image) $(prepared_dir) $(owner_address)
 
-contract_compile:
-	cd nft && npx hardhat compile || cd ..
-
 contract_test:
 	cd nft && REPORT_GAS=true npx hardhat test || cd ..
 
+contract_compile: contract_test
+	cd nft && npx hardhat compile || cd ..
+
 contract_deploy_local:
-	cd nft && npx hardhat ignition deploy ./ignition/modules/Canarinho.ts --network localhost || cd ..
+ifeq ($(strip $(contract_version)),)
+	$(error "[ERROR]: 'contract_version' must be passed. Pass it this way: contract_version=VALUE")
+endif
+	cd nft && npx hardhat ignition deploy ./ignition/modules/Canarinho.ts --network localhost --deployment-id $(contract_version) || cd ..
 
 contract_deploy_sepolia:
 ifeq ($(strip $(contract_version)),)
