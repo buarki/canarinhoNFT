@@ -3,8 +3,10 @@
 ## Prepare images
 
 ```sh
-make artworks_prep_imgs
+make prep_tokens_imgs
 ```
+
+It will copy the image of each player at /players/*/*.(png|jpg|webp) and also some contract needed images into a single directory to be uploaded to IPFS.
 
 ## Setup IPFS
 - [setup a filebase account](../docs/filebase.md#setup-an-account);
@@ -22,9 +24,8 @@ make artworks_prep_imgs
 ## Set the new CID into the metadata files
 
 ```sh
-make artworks_prep_metadata cid=$CID_HERE
+make prep_tokens_metadata cid=$CID_HERE
 ```
-
 
 ## Prepare contract metadata
 
